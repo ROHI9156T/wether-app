@@ -1,7 +1,7 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
     font-family: 'Segoe UI', sans-serif;
-    background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+    background: linear-gradient(135deg, #d1380a, #ee0505);
     min-height: 100vh;
     display: flex;
     align-items: center;
