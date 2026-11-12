@@ -1,7 +1,7 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
     font-family: 'Segoe UI', sans-serif;
-    background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4);
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -32,12 +32,12 @@
     padding: 10px 16px;
     border: none;
     border-radius: 8px;
-    background: #4a90e2;
+    background: #e57373;
     color: white;
     cursor: pointer;
     font-weight: bold;
   }
-  button:hover { background: #357abd; }
+  button:hover { background: #d32f2f; }
   .result { display: none; }
   .temp { font-size: 48px; font-weight: bold; color: #222; }
   .city { font-size: 20px; color: #555; margin-bottom: 6px; }
